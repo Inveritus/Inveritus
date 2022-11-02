@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Inveritus
+- 👋 Hi, I’m Veri (@veri-inveritus) or David
 - 👀 I’m interested in cybersecurity, reverse engineering, FOSS, Linux
 - 🌱 I’m currently learning reverse engineering
 - 💞️ I’m looking to collaborate on Open Source projects
