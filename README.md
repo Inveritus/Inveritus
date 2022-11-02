@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning reverse engineering
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me 
-- <ul> Twitter: https://twitter.com/veri_inveritus
-  <ul> LinkedIn: https://www.linkedin.com/in/davidhyi/
+- <li> Twitter: https://twitter.com/veri_inveritus
+  <li> LinkedIn: https://www.linkedin.com/in/davidhyi/
 
 <!---
 Inveritus/Inveritus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
