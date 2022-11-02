@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity, reverse engineering, FOSS, Linux
 - 🌱 I’m currently learning reverse engineering
 - 💞️ I’m looking to collaborate on Open Source projects
-- 📫 How to reach me: <ul> Twitter: https://twitter.com/veri_inveritus <ul> LinkedIn: https://www.linkedin.com/in/davidhyi/
+- 📫 How to reach me: <ul> Twitter: https://twitter.com/veri_inveritus LinkedIn: https://www.linkedin.com/in/davidhyi/
 
 <!---
 Inveritus/Inveritus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
